@@ -12,4 +12,4 @@ Mod request? Question? Love? You can reach me via...
 
 Discord: Trainer Roak#2618
 
-Or the MC Forums: Herpahermaderp
+Or the MC Forums: [Herpahermaderp](http://www.minecraftforum.net/members/Herpahermaderp)
