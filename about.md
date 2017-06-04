@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Brighton Ulery, also known as Herp or Roak. I am a Computer Science major in the making, having studied
+both Python and C++. I also have experience with Java through modding.
 
 ### Contact me
+Mod request? Question? Love? You can reach me via...
 
-[email@domain.com](mailto:email@domain.com)
+Discord: Trainer Roak#2618
+Or the MC Forums: Herpahermaderp
