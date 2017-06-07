@@ -226,7 +226,7 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    float: center;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
@@ -243,7 +243,7 @@ nav {
   background-color: #4CAF50;
   color: white;
   padding: 16px;
-  font-size: 16px;
+  font-size: 18px;
   border: none;
   cursor: pointer;
 }
